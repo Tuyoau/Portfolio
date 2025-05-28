@@ -195,7 +195,7 @@ export default function Blog() {
                 <button
                   className="flex items-center gap-2 text-violet-500"
                   onClick={() =>
-                    window.open("http://postest.wuaze.com/", "_blank")
+                    window.open("https://portfolio-zeta-three-19.vercel.app/", "_blank")
                   }
                 >
                   {/* ไอคอน */}
